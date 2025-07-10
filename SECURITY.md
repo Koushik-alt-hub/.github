@@ -8,4 +8,4 @@ To responsibly report a security issue, please navigate to the "Security" tab fo
 
 Be sure to include as much detail as necessary in your report. As with reporting normal issues, a minimal reproducible example will help the maintainers address the issue faster.
 
-Thank you.
+Thank you
